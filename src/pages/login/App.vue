@@ -218,6 +218,7 @@
 				box-shadow: none !important;
 				font-size: 16px;
 				padding-left: 68px;
+				height:44px
 			}
 
 			/deep/ .ant-input-affix-wrapper .ant-input-prefix {
